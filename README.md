@@ -4,17 +4,6 @@ I completed my Diploma in Information and Technology from Vaal University of tec
 Orange Farm, South Africa. My journey into the tech world began with a fascination for how systems
 operate behind the scenes.
 
-**My technical skills**:
-
-- JAVA
-- DOCKER
-- MYSQL
-- LINUX
-- PYTHON
-- HTML & CSS
-- DevOps ELEMENTS
-- BASIC NETWORKING
-
 ## Skills:
 
 #### Languages:
